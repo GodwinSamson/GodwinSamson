@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Godwin Samson</h1>
 <h3 align="center">I am passionate Cyber security student. I'm a frontend developer and a UX/UI design</h3>
 
-- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **UX/UI, Graphic and Frontend**
 
